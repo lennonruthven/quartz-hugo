@@ -1,0 +1,6 @@
+.DS_Store
+public
+resources
+.idea
+content/.obsidian
+data/linkIndex.yaml
